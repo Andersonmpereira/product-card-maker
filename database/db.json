@@ -1,0 +1,29 @@
+{
+  "catalog": {
+    "color": "#f7f7f7"
+  },
+  "product": [
+    {
+      "id": 1,
+      "productName": "ventilador",
+      "price": "169.90",
+      "oldPrice": null,
+      "imageDefault": "/img/noImageProduct.jpg",
+      "buyButton": true
+    },
+    {
+      "productName": "Vassoura",
+      "price": "29.99",
+      "oldPrice": "39.99",
+      "imageDefault": "https://www.ultrapack.com.br/wp-content/uploads/2020/08/Vassoura-Bellinha-SF-verde.jpg",
+      "buyButton": true,
+      "id": 2
+    }
+  ],
+  "flags": [
+    {}
+  ],
+  "customize": [
+    {}
+  ]
+}
